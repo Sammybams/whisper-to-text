@@ -1,2 +1,2 @@
 bot_token.env
-lib/
+lib/python3.7/site-packages
